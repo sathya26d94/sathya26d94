@@ -1,16 +1,18 @@
 <h2>Hi, I'm Sathya! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Software Engineer at <a href="https://www.fi.money/">Fi.money</a><img src="https://media.giphy.com/media/TdjQAgDIkRsYm1HUbt/giphy.gif" width="30"> 
+<p><em>Software Engineer - iOS at <a href="https://www.fi.money/">Fi.money</a><img src="https://media.giphy.com/media/TdjQAgDIkRsYm1HUbt/giphy.gif" width="30"> 
 </em></p>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/mistersathya26d94?label=Follow)](https://twitter.com/intent/follow?screen_name=sathya26d94)
+[![Twitter Follow](https://img.shields.io/twitter/follow/sathya26d94?label=Follow)](https://twitter.com/intent/follow?screen_name=sathya26d94)
 [![Linkedin: Sathya](https://img.shields.io/badge/-sathya-n?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sathya26d94/)](https://www.linkedin.com/in/sathya26d94/)
 ![GitHub followers](https://img.shields.io/github/followers/sathya26d94?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://sathya26d94.me/)](https://sathya26d94.me/)
 ![](https://visitor-badge.glitch.me/badge?page_id=sathya26d94_readme)
+<a href="https://medium.com/@sathya26d94"><img alt="Blog" src="https://img.shields.io/badge/Medium-Sathya-blue?style=flat&logo=medium"></a>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+- 🔭 I’m currently working on building a financial app that comes with an in-built savings account, though some people prefer the buzzword 'neobank'. Emboldened by cutting edge tech, Fi helps you know your money, grow your money and organise your funds.
+- 🌱 I’m currently learning more react, Fluter, and how to [write](https://medium.com/@sathya26d94) occasionally.
+- 💬 Ask me about mobile development, web and engineering, learning, and career.
+- 📫 How to reach me: [sathya26d94@gmail.com](mailto:sathya26d94@gmail.com)
+- 😄 Pronouns: He/him
 
 ---
