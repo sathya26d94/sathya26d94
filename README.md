@@ -21,6 +21,5 @@
 <summary><b>📈 Github Stats</b></summary>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sathya26d94&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark" />
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sathya26d94&hide_border=true&theme=dark&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathya26d94&hide_border=true&555&theme=dark&count_private=true&include_all_commits=true"
 
 ---
