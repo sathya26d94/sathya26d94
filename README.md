@@ -1,6 +1,6 @@
 <h2>Hi, I'm Sathya! <img  align='bottom' src="https://media.giphy.com/media/Gbrdvd7ULfTM4hQiyV/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Software Engineer - iOS at <a href="https://www.fi.money/">Fi.money</a><img src="https://media.giphy.com/media/TdjQAgDIkRsYm1HUbt/giphy.gif" width="30"> 
+<img align='right' src="https://media.giphy.com/media/IeRdg7gLkfK1ly2mFU/giphy.gif" width="230">
+<p><em>Software Engineer - iOS at <a href="https://www.fi.money/">Fi.money</a> 
 </em></p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/sathya26d94?label=Follow)](https://twitter.com/intent/follow?screen_name=sathya26d94)
