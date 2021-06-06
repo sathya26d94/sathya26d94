@@ -1,4 +1,4 @@
-<h2>Hi, I'm Sathya! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2>Hi, I'm Sathya! <img src="https://media.giphy.com/media/Gbrdvd7ULfTM4hQiyV/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Software Engineer - iOS at <a href="https://www.fi.money/">Fi.money</a><img src="https://media.giphy.com/media/TdjQAgDIkRsYm1HUbt/giphy.gif" width="30"> 
 </em></p>
