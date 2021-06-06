@@ -8,7 +8,6 @@
 ![GitHub followers](https://img.shields.io/github/followers/sathya26d94?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://sathya26d94.me/)](https://sathya26d94.me/)
 ![](https://visitor-badge.glitch.me/badge?page_id=sathya26d94_readme)
-![Waka Readme](https://github.com/sathya26d94/sathya26d94/workflows/Waka%20Readme/badge.svg)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
