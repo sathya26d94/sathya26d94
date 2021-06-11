@@ -10,7 +10,7 @@
 <a href="https://medium.com/@sathya26d94"><img alt="Blog" src="https://img.shields.io/badge/Medium-Sathya-blue?style=flat&logo=medium"></a>
 
 - 🔭 I’m currently working on building a financial app that comes with an in-built savings account, though some people prefer the buzzword 'neobank'. Emboldened by cutting edge tech, Fi helps you know your money, grow your money and organise your funds.
-- 🌱 I’m currently learning more SwiftUI with Combine react, Fluter, and how to [write](https://medium.com/@sathya26d94) occasionally.
+- 🌱 I’m currently learning more SwiftUI with Combine, Fluter, React and how to [write](https://medium.com/@sathya26d94) occasionally.
 - 💬 Ask me about mobile development, web, data analytics, learning, and career.
 - 📫 How to reach me: [sathya26d94@gmail.com](mailto:sathya26d94@gmail.com)
 - 😄 Pronouns: He/him
