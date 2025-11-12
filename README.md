@@ -5,7 +5,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/sathya26d94?label=Follow)](https://twitter.com/intent/follow?screen_name=sathya26d94)
 [![Linkedin: Sathya](https://img.shields.io/badge/-sathya-n?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sathya26d94/)](https://www.linkedin.com/in/sathya26d94/)
-![GitHub followers](https://img.shields.io/github/followers/sathya26d94?label=Follow&style=social)
+![GitHub followers](https://img.shields.io/github/followers/sathya26d94?label=Followers&style=flat)
 ![Profile views](https://komarev.com/ghpvc/?username=sathya26d94&label=👀%20Profile%20views&color=blueviolet&style=flat)
 <a href="https://medium.com/@sathya26d94"><img alt="Blog" src="https://img.shields.io/badge/Medium-Sathya-blue?style=flat&logo=medium"></a>
 
