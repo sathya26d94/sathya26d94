@@ -1,6 +1,6 @@
 <h2>Hi, I'm Sathya! <img  align='bottom' src="https://media.giphy.com/media/l1J9tiMFKV8R31J9m/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/IeRdg7gLkfK1ly2mFU/giphy.gif" width="230">
-<p><em>Software Engineer - iOS at <a href="https://www.fi.money/">Fi.money</a> 
+<p><em>Director of Engineering at <a href="https://www.fi.money/">Fi.money</a> 
 </em></p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/sathya26d94?label=Follow)](https://twitter.com/intent/follow?screen_name=sathya26d94)
@@ -9,11 +9,11 @@
 ![Profile views](https://komarev.com/ghpvc/?username=sathya26d94&label=👀%20Profile%20views&color=blueviolet&style=flat)
 <a href="https://medium.com/@sathya26d94"><img alt="Blog" src="https://img.shields.io/badge/Medium-Sathya-blue?style=flat&logo=medium"></a>
 
-- 🔭 I’m currently working on a team, building a financial app that comes with an in-built savings account, though some people prefer the buzzword 'neobank'. Emboldened by cutting edge tech, Fi helps you know your money, grow your money and organise your funds.
-- 🌱 I’m currently learning more data engineering and how to [write](https://medium.com/@sathya26d94) occasionally.
-- 💬 Ask me about mobile development, web, data analytics, learning, and career.
-- 📫 How to reach me: [sathya26d94@gmail.com](mailto:sathya26d94@gmail.com)
-- 😄 Pronouns: He/him
+- 🔭 I’m currently leading engineering at [Fi.money](https://fi.money/) as a Director of Engineering, driving initiatives across verticals to build a modern financial app that helps users know, grow, and manage their money effortlessly.  
+- 🌱 I’m currently exploring how AI and data-driven systems can enhance user experience, automate decision-making, and improve developer productivity. I also [write](https://medium.com/@sathya26d94) occasionally
+- 💬 Ask me about mobile development, backend systems, architecture, AI in fintech, and scaling engineering teams.  
+- 📫 Reach me at: [sathya26d94@gmail.com](mailto:sathya26d94@gmail.com)  
+- 😄 Pronouns: He/Him  
 
 ## Some fun stuffs:
 
