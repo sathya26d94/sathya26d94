@@ -6,7 +6,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/sathya26d94?label=Follow)](https://twitter.com/intent/follow?screen_name=sathya26d94)
 [![Linkedin: Sathya](https://img.shields.io/badge/-sathya-n?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sathya26d94/)](https://www.linkedin.com/in/sathya26d94/)
 ![GitHub followers](https://img.shields.io/github/followers/sathya26d94?label=Follow&style=social)
-![](https://visitor-badge.glitch.me/badge?page_id=sathya26d94_readme)
+![Profile views](https://komarev.com/ghpvc/?username=sathya26d94&label=👀%20Profile%20views&color=blueviolet&style=flat)
 <a href="https://medium.com/@sathya26d94"><img alt="Blog" src="https://img.shields.io/badge/Medium-Sathya-blue?style=flat&logo=medium"></a>
 
 - 🔭 I’m currently working on a team, building a financial app that comes with an in-built savings account, though some people prefer the buzzword 'neobank'. Emboldened by cutting edge tech, Fi helps you know your money, grow your money and organise your funds.
